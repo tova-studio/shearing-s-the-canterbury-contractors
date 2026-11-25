@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:39:48.128Z",
+  "slug": "shearings",
+  "name": "Shearing's, the Canterbury Contractors",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Builders & carpenters",
+    "niche": "builders & carpenters",
+    "group": "Trades & construction"
+  },
+  "contact": {
+    "phone": "+6433485420",
+    "email": "info@shearings.co.nz",
+    "address": "210 Main South Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/720040318130329"
+  },
+  "about": {
+    "overview": "Christchurch contractors, RA Shearing are the market leaders in driveways, earthmoving, drainlaying and swimming pools.",
+    "tagline": "Shearing's for Swimming Pools",
+    "services": [
+      "Sidebar",
+      "Shearing's for Earthmoving and Civil",
+      "Shearing's for Driveways and Paving",
+      "Shearing's for Swimming Pools",
+      "Our Services"
+    ]
+  },
+  "before": {
+    "url": "http://www.shearings.co.nz/",
+    "domain": "shearings.co.nz",
+    "finalUrl": "http://www.shearings.co.nz/",
+    "title": "Fibreglass Swimming Pools, Driveways, Earthmoving Contractors - Shearing's Contractors Christchurch",
+    "pages": 15,
+    "score": 62,
+    "assessedAt": "2026-11-24T13:27:00.707Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.shearings.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2016, 10 years ago."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "8 of 15 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/shearing-s-the-canterbury-contractors/",
+    "repoUrl": "https://github.com/tova-studio/shearing-s-the-canterbury-contractors",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:39:48.128Z"
+  }
+}
